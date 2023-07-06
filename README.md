@@ -1,0 +1,1 @@
+# argoCd-sync-aaplication
